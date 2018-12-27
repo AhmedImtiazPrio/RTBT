@@ -7,6 +7,30 @@ Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A.
 
 #### The algorithm and embedded application had won an *Honorable Mention* in the *IEEE Signal Processing Cup 2017*. Watch the demo video [here](https://youtu.be/fyENs0ABZhw).
 
+### Dependencies:
+
+- Python (2.7)
+- Numpy
+- Scipy
+- ffmpeg
+- PyAudio
+- CFFI (C Foreign Function Interface for Python)
+- Six (Python 2 and Python 3 compatibility library)
+- PortAudio Version 19
+- serial (only required if paired with an Arduino)
+
+### Basic Usage:
+
+```
+
+from BeatTracker import BeatTracker
+proc = BeatTracker()
+proc.Beats(InFile=’sample.wav’, OutFile=’sample.txt’)
+
+```
+Read the README.pdf for details on the BeatTracker Class and its submodules
+
+
 ### Cite:
 ```
 @inproceedings{al2018predictive,
