@@ -7,7 +7,7 @@ Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A.
 
 #### The algorithm and embedded application had won an *Honorable Mention* in the *IEEE Signal Processing Cup 2017*. Watch the demo video [here](https://youtu.be/fyENs0ABZhw).
 
-### Dependencies:
+## Dependencies:
 
 - Python (2.7)
 - Numpy
@@ -19,7 +19,7 @@ Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A.
 - PortAudio Version 19
 - serial (only required if paired with an Arduino)
 
-### Basic Usage:
+## Basic Usage:
 
 ```
 
@@ -31,7 +31,7 @@ proc.Beats(InFile=’sample.wav’, OutFile=’sample.txt’)
 Read the README.pdf for details on the BeatTracker Class and its submodules
 
 
-### Cite:
+## Cite:
 ```
 @inproceedings{al2018predictive,
   title={Predictive Real-Time Beat Tracking from Music for Embedded Application},
