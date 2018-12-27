@@ -5,7 +5,7 @@ Please read the [README.pdf](https://github.com/AhmedImtiazPrio/RTBT/blob/master
 
 Al-Hussaini, I., Humayun, A.I., Alam, S., Foysal, S.I., Al Masud, A., Mahmud, A., Chowdhury, R.I., Ibtehaz, N., Zaman, S.U., Hyder, R. and Chowdhury, S.S., 2018, April. Predictive Real-Time Beat Tracking from Music for Embedded Application. In 2018 *IEEE Conference on Multimedia Information Processing and Retrieval* (MIPR) (pp. 297-300). IEEE.
 
-#### The algorithm and submission had won an *Honorable Mention* in the *IEEE Signal Processing Cup 2017*. Watch the demo video [here](https://youtu.be/fyENs0ABZhw).
+#### The algorithm and embedded application had won an *Honorable Mention* in the *IEEE Signal Processing Cup 2017*. Watch the demo video [here](https://youtu.be/fyENs0ABZhw).
 
 ### Cite:
 ```
